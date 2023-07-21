@@ -1,7 +1,7 @@
 # Keeper
 ## Google clone kinda thing
 ### Check out here below:  
-(Keeper)[https://nn9dy2.csb.app/]
+[Keeper](https://nn9dy2.csb.app/)
 
 
 ![keeper](https://github.com/Aarthi0705/Keeper/blob/main/Screenshot%20(389).png?raw=true)
